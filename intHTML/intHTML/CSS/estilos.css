@@ -1,0 +1,67 @@
+﻿
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+
+
+body {
+
+    background: #ff0000;
+    color: black;
+    font-family:"Open Sans";
+    font-size:16px;
+}
+
+@font-face{
+
+}
+
+a{
+
+}
+
+h1 {
+}
+
+#parrafo1{
+    font-family: Arial;
+    }
+.parrafoclase{
+    color:blue;
+}
+
+p{
+    font-family:icomoon;
+}
+
+p a #linkgoogle{
+    
+    
+}
+div{ 
+    border: 5px solid black;
+    margin:10px 15px 10px 15px;
+    padding: 10px 15px;
+   
+    width:50%;
+   
+}
+span{
+    text-align:right;
+}
+#div1{
+   float:right;
+   width:20%;
+   pos
+    border-bottom:1em solid green;
+    border-left:1em solid blue;
+    border-right:1em solid yellow;
+    border-top:1em solid grey;
+}
+ul li {
+   color:#0094ff;
+   font-size: 2em;
+   list-style:none;
+   display:inline-block;
+   /*margin-left:1em;*/
+
+}
